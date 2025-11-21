@@ -8,7 +8,7 @@ This repository contains the HBE (Holistic Bias Evaluation) benchmark proposed i
 This dataset contains structured information related to occupational images and their potential biases based on sensitive attributes. Each entry describes a profession, a textual prompt for image generation or retrieval, and metadata regarding sensitive attributes.
 
 ### Data Format
-The dataset is stored in a JSONL (JSON Lines) format, where each line is a separate JSON object with the following fields:
+The dataset is stored in a JSONL (JSON Lines) format in _data.jsonl_, where each line is a separate JSON object with the following fields:
 
 - **`domain`**: The category of the dataset (e.g., `"occupation"`).
 - **`sensitive_attr`**: A list of sensitive attributes considered in the dataset (e.g., `["gender", "race", "age"]`).
