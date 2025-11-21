@@ -1,6 +1,6 @@
 # FairGen: Controlling Sensitive Attributes for Fair Generations in Diffusion Models via Adaptive Latent Guidance
 
-This repository contains the HBE (Holistic Bias Evaluation) benchmark proposed in the FairGen paper.
+This repository contains the HBE (Holistic Bias Evaluation) benchmark proposed in the [FairGen paper](https://aclanthology.org/2025.emnlp-main.1287.pdf).
 
 ## The HBE Becnhmark
 
